@@ -1,0 +1,2 @@
+# PhilosophyStu.
+philosophy-learn
